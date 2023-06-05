@@ -1,7 +1,7 @@
 # code-challenge-yelp
 
 Skip to content
-Medrine-Jepkemoi /
+mitchmaster001 /
 python-code-challenge-yelp
 Public
 0 stars 0 forks
@@ -15,10 +15,10 @@ Projects
 Security
 
 More
-Medrine-Jepkemoi/python-code-challenge-yelp
+mitchmaster001/python-code-challenge-yelp
 Latest commit
-@Medrine-Jepkemoi
-Medrine-Jepkemoi unified db
+mitchmaster001
+mitchmaster001 unified db
 Jun 5, 2023
 Git stats
 
@@ -147,10 +147,6 @@ Packages
 No packages published
 Contributors 2
 
-    @Medrine-Jepkemoi
-    Medrine-Jepkemoi
-    @pgill97
-    pgill97 Prabhdip Gill
 
 Languages
 
